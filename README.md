@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Noob-master99 aka suriya.K
-- 👀 I’m interested in UI & UX designing.
+- 👀 I’m interested in Front-end development.
 - 🌱 I’m currently learning Bootstrap5, css, javascript, json, jquery, ajax
 - 💞️ I’m looking to collaborate on creating a super hot website.
 - 📫 You can reach me on mail : suriya4012812@gmail.com 
